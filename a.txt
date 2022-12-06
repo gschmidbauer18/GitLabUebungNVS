@@ -1,0 +1,5 @@
+Hello World
+Hello World again
+Hi
+Hello from master
+Hello from mergeConflict. Who will win?
